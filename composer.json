@@ -1,0 +1,16 @@
+{
+    "name": "imezied/fibonacci-flix",
+    "description": "fibonacci simple project",
+    "authors": [
+        {
+            "name": "Islam Mezied",
+            "email": "imezied@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3"
+    },
+    "autoload": {
+        "classmap": ["src/Interfaces","src/Services"]
+    }
+}
